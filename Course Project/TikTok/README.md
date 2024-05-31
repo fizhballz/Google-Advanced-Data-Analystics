@@ -1,8 +1,8 @@
 This project uses a dataset called tiktok_dataset.csv.\
 It contains synthetic data created for this project in partnership with TikTok.\
-
+\
 19,383 rows – Each row represents a different published TikTok video in which a claim/opinion has been made.\
-12 columns 
+12 columns \
 \
 Description:
 
